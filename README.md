@@ -1,6 +1,6 @@
 [@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
 
-# To Do Lists
+# Testing Practice
 
 Description the project.
 A Testing app that keep testing all functionality of the App functiion,method, API to allow users to test how their software run. Built with JavaScript.'
